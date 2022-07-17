@@ -1,0 +1,4 @@
+# Created at 2022-07-16T17:23:31.586
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Sliit\Y1 S2\Object Oriented Programming Java (OOP)\Assignment\Program\TimeTickerComplete\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
